@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <b>🎓 Final-Year Computer Science Undergrad at SRM University-AP</b> • 
+    <b>🎓 Computer Science Undergrad at SRM University-AP</b> • 
     <b>🚀 Specializing in AI Systems, Full-Stack & Native Android</b>
   </p>
 
