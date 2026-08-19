@@ -171,27 +171,6 @@ I am a software engineer focused on building **production-ready AI systems** and
 
 ---
 
-## 📊 Live GitHub Statistics & Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=snehith-budati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Snehith's GitHub Stats" height="175" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehith-budati&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-      </td>
-    </tr>
-  </table>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehith-budati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
-
----
-
 ## 💼 Connect With Me
 
 I'm actively seeking opportunities as a **Software Development Engineer (SDE)**, **AI / Machine Learning Engineer**, or **Full-Stack Developer**. If you're building exciting systems or looking for a fast-learning, impact-driven engineer, let's connect!
