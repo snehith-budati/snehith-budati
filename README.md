@@ -12,7 +12,7 @@
 
   <!-- Quick Status Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/snehith-budati-77125b255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/snehit-budati-77125b255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://leetcode.com/snehith3899"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="mailto:snehith0315@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/snehith-budati"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -33,7 +33,7 @@
 I am a software engineer focused on building **production-ready AI systems** and **modern full-stack web applications**. My technical foundation spans LLM inference engines (quantized 1-bit BitNet, Phi-3, Qwen), custom RAG vector search pipelines with semantic caching, multilingual NLP transformer models, and responsive web applications (React, Vite, Flask, FastAPI).
 
 - ⚡ **AI & RAG Architecture**: Designed voice-enabled enterprise RAG systems with local LLMs, cross-encoder reranking, and semantic caching.
-- 🌐 **Full-Stack & Web**: Architected production marketplaces (React 19, Stripe, Vite) and live enterprise civil infrastructure portals.
+- 🌐 **Full-Stack & Web**: Architected production marketplaces (React 19, Stripe, Vite) and enterprise civil infrastructure portals.
 - 🔬 **NLP Research**: Fine-tuned 4 transformer architectures on Indic languages, beating mBERT baselines by **44%**.
 - 💻 **Problem Solving**: LeetCode enthusiast with **137+ problems solved** in C++ and Python.
 
@@ -76,9 +76,8 @@ I am a software engineer focused on building **production-ready AI systems** and
         <img src="https://img.shields.io/badge/React_18-Web-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Vite-Fast-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
         <img src="https://img.shields.io/badge/MoRTH_Algo-Tender_Engine-00C853?style=flat-square" alt="MoRTH" />
-        <img src="https://img.shields.io/badge/GitHub_Pages-Live-22C55E?style=flat-square&logo=github&logoColor=white" alt="Pages" />
       </p>
-      <p>🔗 <a href="https://snehith-budati.github.io/vivekananda-engineering-consultants/"><b>Live Portal Demo</b></a> • <a href="https://github.com/snehith-budati/vivekananda-engineering-consultants"><b>Repository →</b></a></p>
+      <p>🔗 <a href="https://github.com/snehith-budati/vivekananda-engineering-consultants"><b>View Vivekananda Engineering Consultants Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">📱 MoneyDock — Financial Hub & Visualizer</h3>
@@ -199,7 +198,7 @@ I'm actively seeking opportunities as a **Software Development Engineer (SDE)**,
 
 <div align="center">
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Snehith_Budati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehith-budati-77125b255)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Snehit_Budati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehit-budati-77125b255)
   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-snehith3899-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/snehith3899)
   [![Email Badge](https://img.shields.io/badge/Email-snehith0315%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehith0315@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-snehithbudati-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/snehithbudati)
