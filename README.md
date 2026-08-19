@@ -44,7 +44,7 @@ I am a software engineer focused on building **production-ready AI systems** and
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🤖 Enterprise Voice AI & Local RAG Assistant</h3>
+      <h3 align="left">🤖 PolicyHub AI</h3>
       <p>Voice-enabled, OTP-authenticated enterprise RAG pipeline running 100% locally on quantized LLM architectures (<b>Phi-3, Qwen 2.5, BitNet 1-bit</b>). Features ChromaDB vector search, cross-encoder reranking, and <b>sub-50ms semantic caching</b> for instantaneous response delivery.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -53,7 +53,7 @@ I am a software engineer focused on building **production-ready AI systems** and
         <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       </p>
-      <p>🔗 <a href="https://github.com/snehith-budati/policy-chatbot"><b>View Policy Chatbot Repository →</b></a></p>
+      <p>🔗 <a href="https://github.com/snehith-budati/policy-chatbot"><b>View PolicyHub AI Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">⚡ CreatorCut — Freelance & Talent Marketplace</h3>
