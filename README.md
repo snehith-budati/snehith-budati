@@ -2,12 +2,12 @@
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/snehith-budati">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Snehith+Budati+%F0%9F%91%8B;AI+Systems+%26+Full-Stack+Engineer;Android+%26+Cloud+Software+Developer;Passionate+about+Low-Latency+AI+%26+Scalable+Systems" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Snehith+Budati+%F0%9F%91%8B;AI+Systems+%26+Full-Stack+Developer;Building+Production-Ready+AI+Solutions" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
     <b>🎓 Computer Science Undergrad at SRM University-AP</b> • 
-    <b>🚀 Specializing in AI Systems, Full-Stack & Native Android</b>
+    <b>🚀 Specializing in AI Systems & Full-Stack Development</b>
   </p>
 
   <!-- Quick Status Badges -->
@@ -30,12 +30,12 @@
 
 ## 🧠 Executive Summary
 
-I am a software engineer focused on building **high-performance, production-ready AI systems**, **modern full-stack web applications**, and **fluid native Android experiences**. My technical foundation spans low-latency LLM inference engines (quantized 1-bit BitNet, Phi-3, Qwen), custom RAG vector search pipelines with semantic caching, microservice architectures (Spring Boot, Node.js, FastAPI), and declarative UI design (React 19, Jetpack Compose).
+I am a software engineer focused on building **production-ready AI systems** and **modern full-stack web applications**. My technical foundation spans LLM inference engines (quantized 1-bit BitNet, Phi-3, Qwen), custom RAG vector search pipelines with semantic caching, multilingual NLP transformer models, and responsive web applications (React, Vite, Flask, FastAPI).
 
-- ⚡ **AI & RAG Architecture**: Designed voice-enabled enterprise RAG systems with local LLMs, cross-encoder reranking, and **sub-50ms semantic caching**.
-- 📱 **Mobile Engineering**: Built modern Android apps with **Jetpack Compose**, MVVM architecture, Kotlin Coroutines, and metallic glassmorphic UI.
+- ⚡ **AI & RAG Architecture**: Designed voice-enabled enterprise RAG systems with local LLMs, cross-encoder reranking, and semantic caching.
 - 🌐 **Full-Stack & Web**: Architected production marketplaces (React 19, Stripe, Vite) and live enterprise civil infrastructure portals.
 - 🔬 **NLP Research**: Fine-tuned 4 transformer architectures on Indic languages, beating mBERT baselines by **44%**.
+- 💻 **Problem Solving**: LeetCode enthusiast with **137+ problems solved** in C++ and Python.
 
 ---
 
@@ -56,8 +56,33 @@ I am a software engineer focused on building **high-performance, production-read
       <p>🔗 <a href="https://github.com/snehith-budati/policy-chatbot"><b>View Policy Chatbot Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">📱 MoneyDock — Android Financial Visualizer</h3>
-      <p>Modern, privacy-centric Android personal finance hub built with <b>Kotlin</b> & <b>Jetpack Compose</b>. Features realistic metallic credit card visualizers, BNPL dues tracking (Slice, Navi, KreditBee), real-time liquid net worth calculations, PIN authentication, and an interactive payment calendar.</p>
+      <h3 align="left">⚡ CreatorCut — Freelance & Talent Marketplace</h3>
+      <p>End-to-end talent directory connecting creators, agencies, and studios with elite video editors, 3D artists, and VFX designers. Features multi-parametric filtering, slide-out interactive talent portfolios, dynamic quote calculators, and <b>Stripe Checkout</b> integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-Modern_UI-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+        <img src="https://img.shields.io/badge/Vite_8-Bundler-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Stripe-Payments-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+        <img src="https://img.shields.io/badge/Glassmorphism-CSS3-FF69B4?style=flat-square" alt="CSS" />
+      </p>
+      <p>🔗 <a href="https://github.com/snehith-budati/creator-cut"><b>View CreatorCut Repository →</b></a></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🏗️ Vivekananda Engineering Consultants Portal</h3>
+      <p>Enterprise corporate web application & Joint Venture (JV) portal for Class-1 EPC Highway and Airfield Infrastructure contractors (GMR RGIA Airport runway, transport corridors). Features real-time algorithmic MoRTH/IRC bidding capacity calculator ($N = 2A \times N - B$) and equipment auditing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-Web-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-Fast-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/MoRTH_Algo-Tender_Engine-00C853?style=flat-square" alt="MoRTH" />
+        <img src="https://img.shields.io/badge/GitHub_Pages-Live-22C55E?style=flat-square&logo=github&logoColor=white" alt="Pages" />
+      </p>
+      <p>🔗 <a href="https://snehith-budati.github.io/vivekananda-engineering-consultants/"><b>Live Portal Demo</b></a> • <a href="https://github.com/snehith-budati/vivekananda-engineering-consultants"><b>Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📱 MoneyDock — Financial Hub & Visualizer</h3>
+      <p>Privacy-centric personal finance hub built with <b>Kotlin</b> & <b>Jetpack Compose</b>. Features realistic metallic credit card visualizers, BNPL dues tracking (Slice, Navi, KreditBee), real-time liquid net worth calculations, PIN authentication, and an interactive payment calendar.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-Native-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose" />
@@ -70,43 +95,6 @@ I am a software engineer focused on building **high-performance, production-read
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ CreatorCut — Freelance & Talent Marketplace</h3>
-      <p>End-to-end talent directory connecting creators, agencies, and studios with elite video editors, 3D artists, and VFX designers. Features multi-parametric filtering, slide-out interactive talent portfolios, dynamic quote calculators, and <b>Stripe Checkout</b> integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-Modern_UI-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
-        <img src="https://img.shields.io/badge/Vite_8-Bundler-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Stripe-Payments-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-        <img src="https://img.shields.io/badge/Glassmorphism-CSS3-FF69B4?style=flat-square" alt="CSS" />
-      </p>
-      <p>🔗 <a href="https://github.com/snehith-budati/creator-cut"><b>View CreatorCut Repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🏗️ Vivekananda Engineering Consultants Portal</h3>
-      <p>Enterprise corporate web application & Joint Venture (JV) portal for Class-1 EPC Highway and Airfield Infrastructure contractors (GMR RGIA Airport runway, transport corridors). Features real-time algorithmic MoRTH/IRC bidding capacity calculator ($N = 2A \times N - B$) and equipment auditing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_18-Web-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-Fast-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/MoRTH_Algo-Tender_Engine-00C853?style=flat-square" alt="MoRTH" />
-        <img src="https://img.shields.io/badge/GitHub_Pages-Live-22C55E?style=flat-square&logo=github&logoColor=white" alt="Pages" />
-      </p>
-      <p>🔗 <a href="https://snehith-budati.github.io/vivekananda-engineering-consultants/"><b>Live Portal Demo</b></a> • <a href="https://github.com/snehith-budati/vivekananda-engineering-consultants"><b>Repository →</b></a></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🗂️ Ethara — Team Task & Project Manager</h3>
-      <p>Full-stack team workspace featuring multi-tier Role-Based Access Control (RBAC), interactive Kanban boards, project color coding, task status analytics with Recharts, and JWT authentication.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Express-API-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-        <img src="https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize" />
-        <img src="https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      </p>
-      <p>🔗 <a href="https://github.com/snehith-budati/Team-Task-Manager"><b>View Team Task Manager Repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="left">🧠 Multilingual Indic Transformer Research</h3>
       <p>Fine-tuned 4 transformer architectures (mBART, mT5, IndicBART, BERT2BERT) on low-resource Indic languages (Tamil & Telugu) for abstractive text summarization. Outperformed multilingual BERT baseline by <b>44%</b> on ROUGE benchmark evaluation metrics.</p>
       <p>
@@ -115,20 +103,6 @@ I am a software engineer focused on building **high-performance, production-read
         <img src="https://img.shields.io/badge/Indic_NLP-mBART%2FmT5-FF6F00?style=flat-square" alt="NLP" />
         <img src="https://img.shields.io/badge/ROUGE-Score_%2B44%25-00C853?style=flat-square" alt="ROUGE" />
       </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">💳 Enterprise Finance RBAC Service</h3>
-      <p>Enterprise REST API backend built with Java 17 and Spring Boot 3 featuring 3-tier Role-Based Access Control (VIEWER, ANALYST, ADMIN), input validation, JPA/H2 persistence, and financial analytics endpoints.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_17-Enterprise-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
-        <img src="https://img.shields.io/badge/Spring_Boot_3-Framework-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Spring_Data_JPA-ORM-007396?style=flat-square" alt="JPA" />
-        <img src="https://img.shields.io/badge/H2-In_Memory_DB-2C5E8A?style=flat-square" alt="H2" />
-      </p>
-      <p>🔗 <a href="https://github.com/snehith-budati/finance-dashboard"><b>View Finance Dashboard Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🚗 CarDekho Machine Learning Predictor</h3>
@@ -162,39 +136,36 @@ I am a software engineer focused on building **high-performance, production-read
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>📱 Mobile & Frontend</b></td>
+    <td width="20%"><b>🌐 Frontend & Web</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
       <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>⚙️ Backend & Systems</b></td>
+    <td width="20%"><b>⚙️ Backend & APIs</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>💾 Databases & DevOps</b></td>
+    <td width="20%"><b>💾 Languages & Tools</b></td>
     <td>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     </td>
   </tr>
 </table>
