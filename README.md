@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/snehith-budati">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Snehith+Budati+%F0%9F%91%8B;AI+Systems+%26+Full-Stack+Developer;Building+Production-Ready+AI+Solutions" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Snehith+Budati+%F0%9F%91%8B;AI+Systems+%26+Full-Stack+Engineer" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
